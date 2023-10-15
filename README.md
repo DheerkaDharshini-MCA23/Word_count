@@ -1,14 +1,16 @@
-Description:
+## WORD COUNT
 
-This HTML document displays the top 3 most frequently occurring words from a provided paragraph after removing punctuation and converting all text to lowercase.
+### Description:
 
-How to run the code:
+#### This HTML document displays the top 3 most frequently occurring words from a provided paragraph after removing punctuation and converting all text to lowercase.
 
-step1:Save the HTML file with .html extension.
+### How to run the code:
 
-step2:Click the "Go Live" button.A new browser window will open, displaying top 3 words.
+#### step1:Save the HTML file with .html extension.
 
-Future Enhancements:
+#### step2:Click the "Go Live" button.A new browser window will open, displaying top 3 words.
 
-Implementing user interactivity to allow dynamic paragraph input. Adding the ability to customize the number of top words displayed.
+### Future Enhancements:
+
+#### Implementing user interactivity to allow dynamic paragraph input. Adding the ability to customize the number of top words displayed.
 
